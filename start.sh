@@ -2,5 +2,5 @@
 
 echo "Hello World with Jenkins!!!!!!!"
 
-exit 0
+exit 1
 
